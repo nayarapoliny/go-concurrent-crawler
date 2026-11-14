@@ -1,5 +1,5 @@
-# Binários e relatórios locais
-crawler
+# Binários e relatórios locais na raiz
+/crawler
 *.exe
 report.json
 coverage.out
