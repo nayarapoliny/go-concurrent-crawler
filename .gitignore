@@ -1,5 +1,0 @@
-/crawler
-*.exe
-report.json
-coverage.out
-.DS_Store
